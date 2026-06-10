@@ -8,6 +8,7 @@ export default function Header() {
     </div>
     <div class="intro">
       <h1>Neddy Mugala</h1>
+      <h3>Jr Full Stack Developer</h3>
       <p class="lead">Virtual Assistant • Front-End Developer • WordPress & SEO Specialist</p>
       <p class="mission">Driven by growth — dedicated to learning, contributing, and creating meaningful digital experiences that uplift businesses and communities.</p>
     </div>
